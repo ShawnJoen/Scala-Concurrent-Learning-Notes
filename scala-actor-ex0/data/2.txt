@@ -1,0 +1,4 @@
+flink hadoop hive
+hadoop sqoop hadoop
+hadoop hadoop hadoop
+spark
