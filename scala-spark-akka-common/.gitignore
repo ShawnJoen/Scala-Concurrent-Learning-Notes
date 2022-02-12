@@ -1,0 +1,13 @@
+/.idea/*
+/target/
+/out/
+/.git/
+*.project
+*.classpath
+*.settings
+*.mvn
+*.springBeans
+.project
+*.iml
+
+
